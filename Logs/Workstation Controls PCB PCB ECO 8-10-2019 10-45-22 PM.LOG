@@ -1,0 +1,49 @@
+Added Component: Designator=LED2(0603LED)
+Added Component: Designator=LED3(0603LED)
+Added Component: Designator=LED4(0603LED)
+Added Component: Designator=LED5(0603LED)
+Added Component: Designator=LED6(0603LED)
+Added Component: Designator=R27(0603)
+Added Component: Designator=R28(0603)
+Added Component: Designator=R29(0603)
+Added Component: Designator=R30(0603)
+Added Component: Designator=R31(0603)
+Added Pin To Net: NetName=12V Pin=LED2-1
+Added Pin To Net: NetName=9V Pin=LED3-1
+Added Pin To Net: NetName=5V Pin=LED4-1
+Added Pin To Net: NetName=3.3V Pin=LED5-1
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=FAN LED LE Pin=U1-6
+Added Pin To Net: NetName=FAN LED OE Pin=U3-6
+Added Pin To Net: NetName=MCU_LED Pin=LED6-1
+Added Pin To Net: NetName=MCU_LED Pin=U4-30
+Added Net: Name=MCU_LED
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R27-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R28-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R29-2
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R30-2
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R31-2
+Added Net: Name=NetLED6_2
+Added Member To Class: ClassName=Schematic Member=Component LED2 Colour
+Added Member To Class: ClassName=Schematic Member=Component LED3 Colour
+Added Member To Class: ClassName=Schematic Member=Component LED4 Colour
+Added Member To Class: ClassName=Schematic Member=Component LED5 Colour
+Added Member To Class: ClassName=Schematic Member=Component LED6 Colour
+Added Member To Class: ClassName=Schematic Member=Component R27 10kR
+Added Member To Class: ClassName=Schematic Member=Component R28 10kR
+Added Member To Class: ClassName=Schematic Member=Component R29 10kR
+Added Member To Class: ClassName=Schematic Member=Component R30 10kR
+Added Member To Class: ClassName=Schematic Member=Component R31 10kR

@@ -1,0 +1,20 @@
+Added Component: Designator=U6(SN74LVC2T45DCU)
+Added Component: Designator=U7(SN74LVC2T45DCU)
+Added Pin To Net: NetName=5V Pin=U6-1
+Added Pin To Net: NetName=NetU1_3 Pin=U6-2
+Added Pin To Net: NetName=NetU1_1 Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=FAN LED CP Pin=U6-6
+Added Pin To Net: NetName=FAN LED LE Pin=U6-6
+Added Pin To Net: NetName=3.3V Pin=U6-8
+Added Pin To Net: NetName=5V Pin=U7-1
+Added Pin To Net: NetName=NetU1_2 Pin=U7-2
+Added Pin To Net: NetName=NetU1_19 Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=FAN LED DATA Pin=U7-6
+Added Pin To Net: NetName=FAN LED OE Pin=U7-6
+Added Pin To Net: NetName=3.3V Pin=U7-8
+Added Member To Class: ClassName=Schematic Member=Component U6 SN74LVC2T45
+Added Member To Class: ClassName=Schematic Member=Component U7 SN74LVC2T45

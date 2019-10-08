@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P2 Old Footprint=Header 4 Pin New Footprint=S4B-XH-A(LF)(SN)
+Added Pin To Net: NetName=FAN LED CP Pin=U6-6
+Added Pin To Net: NetName=FAN LED DATA Pin=U7-6

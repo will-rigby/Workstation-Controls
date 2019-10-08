@@ -73,6 +73,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJOSIFUP
 
+[GeneratedDocument1]
+DocumentPath=Outputs\Design Rule Check - Workstation Controls PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

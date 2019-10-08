@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=P1 Old Footprint=HEADER 2 PIN POLARIZED New Footprint=S2B-XH-A(LF)(SN)
+Change Component Footprint: Designator=P4 Old Footprint=HEADER 2 PIN POLARIZED New Footprint=S2B-XH-A(LF)(SN)
+Change Component Footprint: Designator=P5 Old Footprint=HEADER 2 PIN POLARIZED New Footprint=S2B-XH-A(LF)(SN)
+Change Component Footprint: Designator=P7 Old Footprint=HEADER 2 PIN POLARIZED New Footprint=S2B-XH-A(LF)(SN)
+Added Pin To Net: NetName=FAN LED CP Pin=U1-6
+Added Pin To Net: NetName=FAN LED DATA Pin=U3-6
+Added Member To Class: ClassName=Schematic Member=Component C3 1000uF
+Added Member To Class: ClassName=Schematic Member=Component R1 10kR
+Added Member To Class: ClassName=Schematic Member=Component S1 SPST Switch

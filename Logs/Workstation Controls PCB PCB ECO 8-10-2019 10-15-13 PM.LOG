@@ -1,0 +1,189 @@
+Removed Pin From Net: NetName=5V Pin=P3-1
+Removed Pin From Net: NetName=WS2812B DATA Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Member From Class: ClassName=Schematic Member=C1
+Removed Member From Class: ClassName=Schematic Member=C2
+Removed Member From Class: ClassName=Schematic Member=C3
+Removed Member From Class: ClassName=Schematic Member=C4
+Removed Member From Class: ClassName=Schematic Member=C5
+Removed Member From Class: ClassName=Schematic Member=C6
+Removed Member From Class: ClassName=Schematic Member=C7
+Removed Member From Class: ClassName=Schematic Member=C8
+Removed Member From Class: ClassName=Schematic Member=C9
+Removed Member From Class: ClassName=Schematic Member=C10
+Removed Member From Class: ClassName=Schematic Member=C11
+Removed Member From Class: ClassName=Schematic Member=C12
+Removed Member From Class: ClassName=Schematic Member=C13
+Removed Member From Class: ClassName=Schematic Member=C14
+Removed Member From Class: ClassName=Schematic Member=C15
+Removed Member From Class: ClassName=Schematic Member=C16
+Removed Member From Class: ClassName=Schematic Member=C17
+Removed Member From Class: ClassName=Schematic Member=C18
+Removed Member From Class: ClassName=Schematic Member=C19
+Removed Member From Class: ClassName=Schematic Member=C20
+Removed Member From Class: ClassName=Schematic Member=C21
+Removed Member From Class: ClassName=Schematic Member=C22
+Removed Member From Class: ClassName=Schematic Member=C24
+Removed Member From Class: ClassName=Schematic Member=C25
+Removed Member From Class: ClassName=Schematic Member=P1
+Removed Member From Class: ClassName=Schematic Member=P2
+Removed Member From Class: ClassName=Schematic Member=P3
+Removed Member From Class: ClassName=Schematic Member=P4
+Removed Member From Class: ClassName=Schematic Member=P5
+Removed Member From Class: ClassName=Schematic Member=P6
+Removed Member From Class: ClassName=Schematic Member=P7
+Removed Member From Class: ClassName=Schematic Member=R1
+Removed Member From Class: ClassName=Schematic Member=R2
+Removed Member From Class: ClassName=Schematic Member=R3
+Removed Member From Class: ClassName=Schematic Member=R4
+Removed Member From Class: ClassName=Schematic Member=R5
+Removed Member From Class: ClassName=Schematic Member=R6
+Removed Member From Class: ClassName=Schematic Member=R7
+Removed Member From Class: ClassName=Schematic Member=R8
+Removed Member From Class: ClassName=Schematic Member=R11
+Removed Member From Class: ClassName=Schematic Member=R12
+Removed Member From Class: ClassName=Schematic Member=R13
+Removed Member From Class: ClassName=Schematic Member=R14
+Removed Member From Class: ClassName=Schematic Member=R15
+Removed Member From Class: ClassName=Schematic Member=R16
+Removed Member From Class: ClassName=Schematic Member=R17
+Removed Member From Class: ClassName=Schematic Member=R20
+Removed Member From Class: ClassName=Schematic Member=R21
+Removed Member From Class: ClassName=Schematic Member=R22
+Removed Member From Class: ClassName=Schematic Member=R27
+Removed Member From Class: ClassName=Schematic Member=R28
+Removed Member From Class: ClassName=Schematic Member=R29
+Removed Member From Class: ClassName=Schematic Member=R32
+Removed Member From Class: ClassName=Schematic Member=R33
+Removed Member From Class: ClassName=Schematic Member=R36
+Removed Member From Class: ClassName=Schematic Member=R38
+Removed Member From Class: ClassName=Schematic Member=S1
+Removed Member From Class: ClassName=Schematic Member=S2
+Removed Member From Class: ClassName=Schematic Member=S3
+Removed Member From Class: ClassName=Schematic Member=S4
+Removed Member From Class: ClassName=Schematic Member=S5
+Removed Member From Class: ClassName=Schematic Member=U1
+Removed Member From Class: ClassName=Schematic Member=U2
+Removed Member From Class: ClassName=Schematic Member=U3
+Removed Member From Class: ClassName=Schematic Member=U4
+Removed Member From Class: ClassName=Schematic Member=U5
+Removed Member From Class: ClassName=Schematic Member=U6
+Change Component Footprint: Designator=P2 Old Footprint=Header 4 Pin New Footprint=S4B-XH-A(LF)(SN)
+Change Component Designator: OldDesignator=C1 NewDesignator=C?
+Change Component Designator: OldDesignator=C2 NewDesignator=C?
+Change Component Designator: OldDesignator=C3 NewDesignator=C?
+Change Component Designator: OldDesignator=C4 NewDesignator=C?
+Change Component Designator: OldDesignator=C5 NewDesignator=C?
+Change Component Designator: OldDesignator=C6 NewDesignator=C?
+Change Component Designator: OldDesignator=C7 NewDesignator=C?
+Change Component Designator: OldDesignator=C8 NewDesignator=C?
+Change Component Designator: OldDesignator=C9 NewDesignator=C?
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Change Component Designator: OldDesignator=C12 NewDesignator=C?
+Change Component Designator: OldDesignator=C13 NewDesignator=C?
+Change Component Designator: OldDesignator=C14 NewDesignator=C?
+Change Component Designator: OldDesignator=C15 NewDesignator=C?
+Change Component Designator: OldDesignator=C16 NewDesignator=C?
+Change Component Designator: OldDesignator=C17 NewDesignator=C?
+Change Component Designator: OldDesignator=C18 NewDesignator=C?
+Change Component Designator: OldDesignator=C19 NewDesignator=C?
+Change Component Designator: OldDesignator=C20 NewDesignator=C?
+Change Component Designator: OldDesignator=C21 NewDesignator=C?
+Change Component Designator: OldDesignator=C22 NewDesignator=C?
+Change Component Designator: OldDesignator=C23 NewDesignator=C?
+Change Component Designator: OldDesignator=C24 NewDesignator=C?
+Change Component Designator: OldDesignator=C25 NewDesignator=C?
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Component Designator: OldDesignator=L1 NewDesignator=L?
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED?
+Change Component Designator: OldDesignator=P1 NewDesignator=P?
+Change Component Designator: OldDesignator=P1 NewDesignator=P?
+Change Component Designator: OldDesignator=P2 NewDesignator=P?
+Change Component Designator: OldDesignator=P4 NewDesignator=P?
+Change Component Designator: OldDesignator=P5 NewDesignator=P?
+Change Component Designator: OldDesignator=P6 NewDesignator=P?
+Change Component Designator: OldDesignator=P7 NewDesignator=P?
+Change Component Designator: OldDesignator=PRGMR1 NewDesignator=PRGMR?
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q?
+Change Component Designator: OldDesignator=R1 NewDesignator=R?
+Change Component Designator: OldDesignator=R2 NewDesignator=R?
+Change Component Designator: OldDesignator=R3 NewDesignator=R?
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Component Designator: OldDesignator=R5 NewDesignator=R?
+Change Component Designator: OldDesignator=R6 NewDesignator=R?
+Change Component Designator: OldDesignator=R7 NewDesignator=R?
+Change Component Designator: OldDesignator=R8 NewDesignator=R?
+Change Component Designator: OldDesignator=R11 NewDesignator=R?
+Change Component Designator: OldDesignator=R12 NewDesignator=R?
+Change Component Designator: OldDesignator=R13 NewDesignator=R?
+Change Component Designator: OldDesignator=R14 NewDesignator=R?
+Change Component Designator: OldDesignator=R15 NewDesignator=R?
+Change Component Designator: OldDesignator=R16 NewDesignator=R?
+Change Component Designator: OldDesignator=R17 NewDesignator=R?
+Change Component Designator: OldDesignator=R20 NewDesignator=R?
+Change Component Designator: OldDesignator=R21 NewDesignator=R?
+Change Component Designator: OldDesignator=R22 NewDesignator=R?
+Change Component Designator: OldDesignator=R27 NewDesignator=R?
+Change Component Designator: OldDesignator=R28 NewDesignator=R?
+Change Component Designator: OldDesignator=R29 NewDesignator=R?
+Change Component Designator: OldDesignator=R32 NewDesignator=R?
+Change Component Designator: OldDesignator=R33 NewDesignator=R?
+Change Component Designator: OldDesignator=R36 NewDesignator=R?
+Change Component Designator: OldDesignator=R37 NewDesignator=R?
+Change Component Designator: OldDesignator=R38 NewDesignator=R?
+Change Component Designator: OldDesignator=S1 NewDesignator=S?
+Change Component Designator: OldDesignator=S2 NewDesignator=S?
+Change Component Designator: OldDesignator=S3 NewDesignator=S?
+Change Component Designator: OldDesignator=S4 NewDesignator=S?
+Change Component Designator: OldDesignator=S5 NewDesignator=S?
+Change Component Designator: OldDesignator=S6 NewDesignator=S?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Change Component Designator: OldDesignator=U3 NewDesignator=U?
+Change Component Designator: OldDesignator=U4 NewDesignator=U?
+Change Component Designator: OldDesignator=U5 NewDesignator=U?
+Change Component Designator: OldDesignator=U6 NewDesignator=U?
+Change Component Designator: OldDesignator=U7 NewDesignator=U?
+Added Component: Designator=P?(S3B-XH-A(LF)(SN))
+Added Pin To Net: NetName=5V Pin=P?-1
+Added Pin To Net: NetName=WS2812B DATA Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=FAN LED CP Pin=U?-6
+Added Pin To Net: NetName=FAN LED DATA Pin=U?-6
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ?_2
+Change Net Name : Old Net Name=NetL1_2 New Net Name=NetL?_2
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetLED?_1
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED?_2
+Change Net Name : Old Net Name=NetLED1_3 New Net Name=NetLED?_3
+Change Net Name : Old Net Name=NetLED1_4 New Net Name=NetLED?_4
+Change Net Name : Old Net Name=NetLED1_5 New Net Name=NetLED?_5
+Change Net Name : Old Net Name=NetLED1_6 New Net Name=NetLED?_6
+Change Net Name : Old Net Name=NetLED1_7 New Net Name=NetLED?_7
+Change Net Name : Old Net Name=NetLED1_8 New Net Name=NetLED?_8
+Change Net Name : Old Net Name=NetLED1_9 New Net Name=NetLED?_9
+Change Net Name : Old Net Name=NetLED1_10 New Net Name=NetLED?_10
+Change Net Name : Old Net Name=NetLED1_11 New Net Name=NetLED?_11
+Change Net Name : Old Net Name=NetLED1_12 New Net Name=NetLED?_12
+Change Net Name : Old Net Name=NetLED1_13 New Net Name=NetLED?_13
+Change Net Name : Old Net Name=NetLED1_14 New Net Name=NetLED?_14
+Change Net Name : Old Net Name=NetLED1_15 New Net Name=NetLED?_15
+Change Net Name : Old Net Name=NetLED1_16 New Net Name=NetLED?_16
+Change Net Name : Old Net Name=NetLED1_17 New Net Name=NetLED?_17
+Change Net Name : Old Net Name=NetLED1_18 New Net Name=NetLED?_18
+Change Net Name : Old Net Name=NetLED1_19 New Net Name=NetLED?_19
+Change Net Name : Old Net Name=NetLED1_20 New Net Name=NetLED?_20
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetP?_1
+Change Net Name : Old Net Name=NetP4_2 New Net Name=NetP?_2
+Change Net Name : Old Net Name=NetP7_1 New Net Name=NetP?_1
+Change Net Name : Old Net Name=NetR29_2 New Net Name=NetR?_2
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR?_1
+Change Net Name : Old Net Name=NetU1_1 New Net Name=NetU?_1
+Change Net Name : Old Net Name=NetU1_2 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU1_3 New Net Name=NetU?_2
+Change Net Name : Old Net Name=NetU1_19 New Net Name=NetU?_3
+Added Member To Class: ClassName=Schematic Member=Component P? WS2812b
