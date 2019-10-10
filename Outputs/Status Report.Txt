@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Workstation Controls.PrjPcb]
+   Generated File[Workstation Controls PCB.TXT]
+   Generated File[Workstation Controls PCB.LDP]
+   Generated File[Workstation Controls PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:21:08 PM On 10/10/2019
