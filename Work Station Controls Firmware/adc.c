@@ -17,7 +17,7 @@ void adc_initalise(void){
 	ADC->CTRLA.reg = 0;			// Reset
 	ADC->CTRLB.reg = 0;			// Prescaler set to Divide By 2
 	ADC->REFCTRL.reg = 0x03;	// VREFA
-	ADC->CTRLC.reg = 0;
+	ADC->CTRLC.reg = 0x03<<4;
 	ADC->CTRLA.reg |= ADC_CTRLA_ENABLE;
 }
 

@@ -9,6 +9,8 @@
 #include "sam.h"
 #include "adc.h"
 #include "fan.h"
+#include "npic6c4894-Q100_led_driver.h"
+#include "timer3.h"
 
 
 void sys_init(void)
@@ -31,12 +33,21 @@ int main(void)
     sys_init();
 
 	/* Enable Peripherals */
+	init_timer1();
 	adc_initalise();
 	fan_initialise();
-
+	led_driver_init();
+	uint16_t i = 0;
+	while(1){
+		led_driver_write(i);
+		i++;
+		delay_ms(100);
+	}
     /* Replace with your application code */
     while (1) 
     {
 		fan_process();
-    }
+		uint32_t top = TCC0->COUNT.reg;
+		//fan_set_pwm(250);
+	}
 }

@@ -13,7 +13,7 @@
 
 uint32_t get_millis(void);
 void delay_ms(uint32_t time);
-void init_timer3(void);
+void init_timer1(void);
 
 
 
